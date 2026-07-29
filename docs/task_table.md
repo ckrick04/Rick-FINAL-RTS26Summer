@@ -1,7 +1,9 @@
 ## Task Table
 
-Using the WCET measurement tool from previous apps, I found the WCET for my system, which is shown below. .  
-![WCET Measurements](./assets/FINAL_WCET.png)
+Using the WCET measurement tool from previous apps, I found the WCET for my system, which is shown below.  
+
+![WCET Measurements](./assets/FINAL_WCET.png)  
+
 | Task | Function | Period (ms) | WCET (ms) | Deadline (ms) | Priority | Core |
 | ---- | -------- | ----------- | --------- | ------------- | -------- | ---- |
 | Load Task A | XORShift32 churn | 10 | 0.157 | 10 | 15 | 1 |  
