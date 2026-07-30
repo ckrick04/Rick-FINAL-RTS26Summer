@@ -14,7 +14,7 @@ The structure of the website is listed below.
 │   ├── hazard-analysis      # Hazard analysis
 │   └── assets/              # Images / screenshots
 │   └── reflection/          # Course reflection
-│   └── README.md/           # Full README
+│   └── about/               # Same as README, but rendered
 ├── firmware/                # Folder for Wokwi app
 │   ├── src/
 │   └── diagram.json         # Wokwi component diagram
