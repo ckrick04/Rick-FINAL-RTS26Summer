@@ -1,0 +1,2 @@
+## Hazard analysis & standard mapping
+One instance of a hazard is that the emergency stop might be too slow, preventing the ride from stopping in time. This hazard is prevented in two ways. First, the priority of the emergency stop is above all other tasks at 15, as it is the most critical task. Second, the task completely suspends the producer, which generates new data. This prevents the ride from progressing further immediately when the emergency stop is called, making it faster.
