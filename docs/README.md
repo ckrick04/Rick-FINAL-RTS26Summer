@@ -4,9 +4,8 @@
 A safety critical system that simulates a ride's progression and emergency stops, built to demonstrate ride controls for a theme park engineering role.
 
 ## Demo
-- Video: <YouTube>
+- Video: https://www.youtube.com/watch?v=LNYvpyLEDYs
 - Wokwi URL: https://wokwi.com/projects/470898166033667073
-- Live Wokwi: Rick-FINAL-RTS26Summer
 
 ## Architecture
 ![Architecture / program flow](./assets/architecture.png)  
