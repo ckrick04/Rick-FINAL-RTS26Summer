@@ -37,3 +37,6 @@ The program was created entirely through Wokwi. To run on Wokwi, the program ZIP
 
 ## Tailored for
 This project is tailored for someone working in engineering in the theme park industry, likely in ride controls. The project was designed around maximizing safety, with fast emergency stops for hazardous scenarios. The project also involved including backup mechanisms incase of failures, which a controls engineer would need, as any accident on a ride could lead to serious injury.
+
+## AI Disclosure
+I used AI mainly through AI generated Google searches. These were mainly to understand some of the structures and functions available in FreeRTOS (like vTaskSuspend and vTaskResume), as well as understanding how to monitor the WiFi connection within Wokwi and the parameters that I would need.
